@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisión de solicitudes - Vehículos</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+    <script>
+        function cargarDatos() {
+            var archivoCSV = 'datos.csv'; // Nombre de tu archivo CSV
+
+            // Nombres de las columnas
+            var nombresColumnas = ["Fecha solicitud", "CV", "Nombre", "Patente", "Descripción de la falla", "Estado","Comentarios"];
+
+            var xhr = new XMLHttpRequest();
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState === 4) {
+                    if (xhr.status === 200) {
+                        var tablaDatos = document.getElementById('tablaDatos');
+                        var lineas = xhr.responseText.split('\n');
+                        for (var i = 0; i < lineas.length; i++) {
+                            var datos = lineas[i].split(';'); // Usar punto y coma como separador
+                            var fila = tablaDatos.insertRow();
+                            for (var j = 0; j < datos.length; j++) {
+                                var celda;
+                                if (i === 0) {
+                                    celda = document.createElement('th'); // Crear elemento th para la primera fila
+                                    celda.textContent = nombresColumnas[j]; // Usar nombres de columnas
+                                } else {
+                                    celda = document.createElement('td'); // Crear elemento td para las filas siguientes
+                                    celda.textContent = datos[j];
+                                }
+                                fila.appendChild(celda);
+                            }
+                        }
+                    } else {
+                        console.error('Error al cargar los datos:', xhr.status);
+                    }
+                }
+            };
+            xhr.open('GET', archivoCSV, true);
+            xhr.send();
+        }
+
+        function filtrarDatos() {
+            var filtro = document.getElementById('filtro').value.toUpperCase();
+            var tabla = document.getElementById('tablaDatos');
+            var filas = tabla.getElementsByTagName('tr');
+            for (var i = 0; i < filas.length; i++) {
+                var datos = filas[i].getElementsByTagName('td');
+                var mostrarFila = false;
+                for (var j = 0; j < datos.length; j++) {
+                    var texto = datos[j].textContent.toUpperCase();
+                    if (texto.includes(filtro)) {
+                        mostrarFila = true;
+                        break;
+                    }
+                }
+                filas[i].style.display = mostrarFila ? '' : 'none';
+            }
+        }
+    </script>
+</head>
+<body onload="cargarDatos()">
+    <img id="imagen-esquina" src="imagen.png" alt="Imagen" />
+    <h1>Revisión de solicitudes</h1>
+    <h2>Departamento de Vehículos</h2>
+    <p>Ingrese su nombre para filtrar la tabla:</p>
+    <input type="text" id="filtro" placeholder="ej: Kevin Urtubia">
+    <button onclick="filtrarDatos()">Aceptar</button>
+    <table id="tablaDatos">
+        <tbody>
+            <!-- Aquí se cargarán los datos del archivo CSV -->
+        </tbody>
+    </table>
+</body>
+</html>
