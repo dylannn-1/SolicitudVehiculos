@@ -1,11 +1,33 @@
 Marca temporal;Centro de Venta;Escriba su nombre;patente ;descripcion ;estado ;comentario 
+21-10-2024;LOS ANGELES;Luis carrera ;RCZB15;Falta de repuestos;pendiente;
+19-10-2024;CONCEPCION;Alejandro alfonso chandia bustamante ;JKBX71;Rotura de parachoque trasero  lado derecho ;GESTIONADO;
+18-10-2024;OTROS;Rolando;PBPD-75;Falta liquido de frenos!;pendiente;
+17-10-2024;OTROS;Alexis Yepez;LGSF-95;Foco derecho delantero quemado;pendiente;
+17-10-2024;TALCA;Cristian Orellana;PLJR-67;Parabrisas con una fisura;GESTIONADO;
+16-10-2024;PUERTO MONTT;Jose;PB.KD-65 ;Espejos malos;GESTIONADO;REPARADO
+16-10-2024;PUERTO MONTT;Jose;PB.KD-65 ;Liquido de frenos al mínimo se enciende la luz;GESTIONADO;RESUELTO
+16-10-2024;PUERTO MONTT;Jose;PB.KD-65 ;Luces malas;GESTIONADO;CAMBIO DE AMPOLLETAS
+16-10-2024;PUERTO MONTT;Jose;PB.KD;Frena mano malo;GESTIONADO;REPARADO
+16-10-2024;PUERTO MONTT;Jose;LH.GR-61 ;Cámara retroceso mala;GESTIONADO;REPARADO
+16-10-2024;CONCEPCION;Mauricio Ferrari ;JFGW86;Problemas en el arranque;GESTIONADO;Revisado 
+16-10-2024;TALCA;Felipe toloza;SSSZ56;Parabrisa trisado;GESTIONADO;Se cotiza parabrisas
+16-10-2024;LOS ANGELES;Danilo Rivas ;PLDV-45;Intermitente derecho trasero malo;GESTIONADO;Ampolleta Cambiada
+16-10-2024;CONCEPCION;Mauricio Antilef ;RCYZ91;Cambio de plumillas , en mal estado ;GESTIONADO;Plumilla Cambiada
+15-10-2024;OSORNO;Christofer  Pacheco;LHGR-63;Falla en luz interior ;GESTIONADO;REPARADO
+15-10-2024;PUERTO MONTT;Jose;PB.KD-65;Parachoque en mal estado ;GESTIONANDO;REPARADO
+15-10-2024;ANTOFAGASTA;Katherine navarrete;LGSX98;Luz de cajon, parabrisas, espejos de los retrovisores y marchas;pendiente;
+15-10-2024;CONCEPCION;Joanmel Dios ;PKTJ77;Neblineros quemados ;GESTIONADO;Reparado
 14-10-2024;CONCEPCION;Benjamin;JKRL20;Luz izquierda quemada;GESTIONADO;Luz Cambiada
+14-10-2024;PUERTO MONTT;Jose;LH.GR-61;Interruptor en mal estado;GESTIONADO;RESUELTO
+14-10-2024;PUERTO MONTT;Jose;LH-GR-61;Sin llave de ruedas ;GESTIONADO;
 11-10-2024;CONCEPCION;Angel Labrador ;PJTV92;Pinchazo rueda trasera ;GESTIONADO;Reparada
+11-10-2024;OSORNO;Gerson Muñoz ;PKFF15;Se pinchó neumático trasero lado izquierdo, la semana pasada se parcho y tenía una fisura, duro una semana;GESTIONADO;RESUELTO
 08-10-2024;OTROS;Cristian Martel ;PBKD57;Parabrisas rotó puertas de cajón descuadradas pastillas de freno luz de cajon;pendiente;
 08-10-2024;SAN FERNANDO;Alex Martinez ;RHYH69;Problemas en caja de cambio... Marcha 6 no pasa... Urgente... Neumáticos gastados;GESTIONADO;
 08-10-2024;ANTOFAGASTA;;LGSX56 ;Pastillas rueda delantera.parachoque.luz cajon.pestillo puerta trasera.estante desoldado;pendiente;
 08-10-2024;OTROS;Alexis Yepez;LGSF-95;Foco delantero lado derecho quemado;pendiente;
 08-10-2024;OTROS;Miguel vega ;PBKD 49;Falta ampolleta de iluminación en el cajón ;pendiente;
+08-10-2024;OSORNO;Gerson Muñoz;PKFF15;Problemas en el ingreso del dinero de la caja fuerte, se traba el dinero y no permite el ingreso de los demás billetes;GESTIONADO;Revisado
 05-10-2024;CASTRO;Jorge;SGVH72;Piedra en ruta hizo piquete en el vidrio ;GESTIONADO;POR INGRESA A TALLER
 04-10-2024;OTROS;Aliki vargas;LGSX-79 ;Pastillas gastadas, caliper sonando de ambos neumatico y fuga de agua camiol reparado hace 1 semana y no esta en buena condiciones ;pendiente;
 04-10-2024;OTROS;Miguel vega;PBKD49 ;No tiene ampolleta de iluminación en interior de cajon ;pendiente;
@@ -13,19 +35,32 @@ Marca temporal;Centro de Venta;Escriba su nombre;patente ;descripcion ;estado ;c
 04-10-2024;OTROS;Cristian ramirez Martel ;PBKD57;Parabrisas trisado, cuadrar puerta trasera de cajón e iluminación interior de cajón ;pendiente;
 04-10-2024;ANTOFAGASTA;Hector nuñez;LGSX56;Parachoque luces cajon pestillo trasero puerta;pendiente;
 30-09-2024;VIÑA DEL MAR;Sebastian ;RHYH75;Espejo suelto;pendiente;
+27-09-2024;TEMUCO;Héctor ;JKRL-14;Cinturón de seguridad en mal estado. ;GESTIONADO;REPARADO
+27-09-2024;PUERTO MONTT;Julio rosas uribe;LH GH 14;Enbreage demaciado duro para pasar los cambios, y caja de cambio hay que esforsarla para pasar cambio;GESTIONADO;RESUELTO
+27-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32 ;Frenos no funcionan perfectamente, al accionar vehículo vibra fuerte, cámara de retroceso funciona con intermitencia, mica foco de freno lado chofer quebrado ;GESTIONADO;INGRESA A TALLER 28/10
 26-09-2024;LO ESPEJO;Ramon Gustavo Salazar ;JKGH-41;Derramó líquido a la altura de la rueda delantera derecha ;GESTIONADO;
 26-09-2024;OTROS;Alexis Yepez;LGSF-95;Foco delantero quemado, cable de batería no ajustado;pendiente;
 26-09-2024;LOS ANGELES;Jonathan Paredes;JFHB-12;Bocina no funciona ;GESTIONADO;
 25-09-2024;LOS ANGELES;José Carlos loyola ;SJDJ82;Vehículo vibra demaciado al tomar un poco de velocidad ;GESTIONADO;Cambio Neumaticos
 25-09-2024;OTROS;Jorge Nuñez Martinez ;PJJJ64;Bateria y mantencion camion;pendiente;
 25-09-2024;IQUIQUE;hector ;LGSX-20;vehículo se sube la temperatura y freno zapatea ;pendiente;
+25-09-2024;PUERTO MONTT;Ernesto Inostroza Cavieres ;LH.GR44;No da arranque en la mañana ;GESTIONADO;CAMBIADA
 24-09-2024;TALCA;Cristian Castro ;RTJF94;Puerta del conductor no abre con la llave y control no funciona ;GESTIONADO;Cambio de cilindro puerta
 24-09-2024;SAN FERNANDO;Natalia cubillos;FSSW68;Tornillo en neumatico;GESTIONADO;
+23-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32 ;Batería fallando, al accionar pedal de freno, vehículo vibra, cámara de retroceso funciona con intermitencia, mica foco de luz de freno lado chofer rota, check In se enciende y se apaga a cada instante ;GESTIONADO;INGRESAR A AVIS
+23-09-2024;OSORNO;Matías ;LHGR-68;Cable de alimentación electrónica a impresora funciona al apretarlo , dejando así la impresora sin carga ;GESTIONADO;Revisado
 21-09-2024;LOS ANGELES;Julio mardones ;LPDH 58 ;Cae mucha. Agua lado puertas del conductor se mando a reparar pero no fue lo que debían mejorar;GESTIONADO;Pendiente 
 16-09-2024;LO ESPEJO;Francisco aguilera ;KL DZ 88;Camioneta tirita demaciado al momento de estar detenida;GESTIONADO;
+16-09-2024;PUERTO MONTT;Claudio cifuentes ;LGSX28;Batería ;GESTIONADO;CAMBIADA
+14-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32;Batería fallando, al accionar el freno, vehículo vibra, cámara de retroceso no funciona correctamente, check In, se enciende y se apaga a cada momento ;GESTIONADO;BATERIA CAMBIADA
+13-09-2024;TEMUCO;Francisco velarde;SRZC-28;los rodamiento delatero esta sonando mucho ;GESTIONADO;Rodamientos cambiados
 12-09-2024;ANTOFAGASTA;Hector nuñez;LGSX56;Malo el parachoque delantero,cable mano impresora,;pendiente;
 10-09-2024;LOS ANGELES;Luis Cabezas;SRHK 40;Neumatico descompuesto, tercera luz de freno. ;GESTIONADO;REPARADO
+10-09-2024;PUERTO MONTT;Sergio Mazzanti ;PGBX-94;Falta la llave de la bóveda ;GESTIONADO;SOLUCIONADO
 09-09-2024;SAN FERNANDO;Wenderly Hernández ;FBDK78;Fuga de petróleo en el estanque;CERRADO;REPARADO
+09-09-2024;CASTRO;Manuel quilaqueo ;LGSX64;Faro trasero roto lado chófer tracero ;GESTIONADO;RESUELTO
+09-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32;Bateria fallando, camara de retroseso funciona con itermitencia, frenos vibran al accionar el pedal, check in se enciende y apaga a cada instante ;GESTIONADO;CAMBIADA
+07-09-2024;OSORNO;Moira Vargas;PKFF44;Falla en pantalla ;GESTIONADO;Reparado
 06-09-2024;SAN FERNANDO;Juan pablo catalan;GKYX99;Se reporta por segunda vez neumatico delantero derecho en pésimas condiciones;CERRADO;CAMBIADO
 05-09-2024;TALCA;Elías Carreño ;PJTV-31;viniendo por carretera algo golpea el parabrisas y deja la marca ;GESTIONADO;
 03-09-2024;EL PINAR;Daniel leiva;KVDP96 ;Parachoques sueldo lado izquierdo ;CERRADO;
@@ -41,40 +76,69 @@ Marca temporal;Centro de Venta;Escriba su nombre;patente ;descripcion ;estado ;c
 28-08-2024;SAN FERNANDO;Alex;FKRD80;Problema de frenos general y cajón mal aislado ;pendiente;
 28-08-2024;LA SERENA;Giovanni malebran;PF Y-24;No funciona la radio con pantalla y con ese problema no funciona la cámara de retroceso ;pendiente;
 27-08-2024;OTROS;Juan Vargas ;LHGH-27;Problemas de batería tercer día consecutivo que se queda sin bateria;pendiente;
+27-08-2024;CASTRO;Jacqueline;KGCV-28;Luz de falla motor permanece encendido aun motor andando, neumáticos con desgastes por roces fotografía enviadas a supervisora.;GESTIONADO;RESUELTO
 24-08-2024;SAN FERNANDO;Gastón Carreño Ramirez ;PJTT-25;Luces de baja quemada ;CERRADO;
 24-08-2024;LO ESPEJO;Jorge Carrillo Jerez;KFWT-78;No encienden las luces de retroceso y chapa de encendido con problemas de conexión ;CERRADO;
+24-08-2024;OSORNO;Hilario Fucha ;PKFD83;Luz baja quemada ;GESTIONADO;Ampolleta Cambiada
 23-08-2024;CONCEPCION;Fabián Moncada ;PB-PD 62;Batería del camión en mal estado ;GESTIONADO;En Revision 
 23-08-2024;LO ESPEJO;Ramón Gustavo Salazar ;JKGH 41;Cinturón de seguridad conductor malo ;CERRADO;
+22-08-2024;TEMUCO;José Muñoz;SF-FL-47;Plumillas en Mal Estado;GESTIONADO;Plumilla Cambiada
 21-08-2024;SAN FERNANDO;Alex Martinez;GPRG77;Crujido sospechoso en suspensión trasera y perdida de líquido refrigerante;GESTIONADO;
+20-08-2024;OSORNO;Hilario Fucha ;PKFD83;Espejo lado izquierdo trizado ;GESTIONADO;Espejo Cambiado
 17-08-2024;MELIPILLA;Manuel castañeda ;RFJF60;Luces de ópticos quemadas, luces de frenos quemadas.;CERRADO;
 17-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77 ;Frenos largos y sonidos al frenar amerita cambio de pastillas ;CERRADO;
 16-08-2024;CONCEPCION;Sebastián reyes ;PKFD44;Bateria en mal estado;GESTIONADO;Bateria Cambiada
+14-08-2024;TEMUCO;Héctor Sánchez Abarca ;GPRG93;Tiene batería buena pero no arranca el motor. Al girar llave no hace nada;GESTIONADO;Reparado
+13-08-2024;TEMUCO;Pablo Perez;RPFT-33;Sin rueda de repuesto. por reventarse 1 en ruta;GESTIONADO;Neumaticos Cambiados
+13-08-2024;OSORNO;Pablo González ;LHGH23;Neumáticos gastados. Sin neumático de repuesto.;GESTIONADO;Neumaticos Cambiados
+12-08-2024;PUERTO MONTT;Luis mancilla;LHGR-64;Neumaticos;GESTIONADO;CAMBIADOS
+12-08-2024;CASTRO;Jacqueline ;KGCV-28;Camioneta sin adaptadores para cargar impresora y celular. Además freno de mano en malas condiciones vehículo se desplaza aun con freno de manos. ;GESTIONADO;REPARADO
 10-08-2024;LOS ANGELES;José Carlos loyola;LPDH58;Foco delantero lado izquierdo quemado y Intermitente trasero lado derecho quemado ;GESTIONADO;REPARADO
+10-08-2024;CASTRO;Jacqueline mansilla ;LHGR58;Puerta en mal estado por golpe. ;GESTIONADO;RESUELTO
 09-08-2024;LO ESPEJO;Francisco aguilera;KLDZ88;Camion se queda parado sin fuerza en plena autopista;CERRADO;
 09-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77 VEHíCULO 2565;Puerta trasera izquierda chocada no cierra bien por favor realizar reparación lo antes posible o reemplazar por un vehículo grande ya que ando en una terrano y es difícil trabajar así la ruta de Consumo ;GESTIONADO;
+07-08-2024;TEMUCO;Christopher herrera;SBYC46;Neumáticos traseros en mal estado ;GESTIONADO;Neumaticos Cambiados
 06-08-2024;SAN FERNANDO;Marcelo salazar;PGPY69;Soporte tubo de escape malo o roto;pendiente;
 06-08-2024;LOS ANGELES;Luis carrera ;RCZB-15;Falta de Repuesto del vehículo Neumático trasero del vehículo por Doblemente reparado ;GESTIONADO;Reparado
 03-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77;Puerta del Cajón chocada no cierra bien es difícil trabajar así por favor reparar lo antes posible ;GESTIONADO;
+03-08-2024;CASTRO;Anyelo;LHGR50;Batería mailisa no carga nada ;GESTIONADO;RESUELTO
 02-08-2024;CONCEPCION;Eduardo cuevas ;RHYH-59;Al frenar suavemente el camión frena bruscamente de golpe ;GESTIONADO;Reparado
 02-08-2024;TALCA;Cristian parada;JHDR-50;Falta de luz en el cajon;GESTIONADO;Luz Cambiada
+02-08-2024;TEMUCO;Nicolas Carrillo;JKRL-12;Bateria en mal estado(a dejado en pana 4 veces);GESTIONADO;Bateria Cambiada
 01-08-2024;TALCA;Paulo Avila;JCDT55;Falta sellado y espuma aislante , con poca lluvia entra demasiada agua dentro del cajon donde esta la mercaderia;GESTIONADO;
 30-07-2024;OTROS;Carlos Indriago;RHYH50;Camara retroceso ;pendiente;
 30-07-2024;TALCA;Manuel Madariaga ;RPFT-46;Vehículo con problemas en la dirección, falta de alineación. Vehículo le ingresa agua de lluvia por cajón por el piso y por la parte superior ;GESTIONADO;Reparado
 30-07-2024;CONCEPCION;Néstor Balboa ;RHYH-76;Problemas limpiaparabrisas ;GESTIONADO;Reparado
+30-07-2024;TEMUCO;Jorge garces;KGCV31;Ampolleta quemada lado copiloto;GESTIONADO;Reparado
 29-07-2024;SAN FERNANDO;Alex Martinez ;FSSW68;Plumillas limpia paarabrisas quemadas y en malas condiciones ;CERRADO;
 29-07-2024;SAN FERNANDO;Alex;FSSW68;Revisar freno tren delantero ;CERRADO;
 29-07-2024;CONCEPCION;Benjamin;JKRL 20;Sin camara de retroceso;GESTIONADO;Reparado
+29-07-2024;PUERTO MONTT;Jose;LHGR-61;Neumáticos malos traseros ;GESTIONADO;CAMBIADOS
 27-07-2024;SAN FERNANDO;Jorge diaz;PPRX-91;Parabrisas roto;pendiente;
+26-07-2024;TEMUCO;Alexander salinas ;PJRC-49;Se enciende el vehículo y comienza a pestañar  la luz del check;GESTIONADO;Reparado
+26-07-2024;CASTRO;Rafael medina;LHGH13;DISCOS DE FRENO EN MAL ESTADO. Dificultan y entorpece la frenada cuando se va en carretera;GESTIONADO;REPARADO
 25-07-2024;EL PINAR;Fabian mella ;DWCD78;Caja de cambios mal estado ;GESTIONADO;
 24-07-2024;RANCAGUA;Frederick;RHYH64;Chapa mala en puerta de conductor, al parecer intento de apertura de puerta;CERRADO;
 22-07-2024;OTROS;Rolando ;PBPD-75;Neumático delantero izquierdo liso;pendiente;
+22-07-2024;CASTRO;Anyelo ;LHGR50;Diferencia frenado alineamiento neumáticos desgastados cierre centralizado radio puertos de carga seguro puerta trasera espejo retrovisor puerta traerá mal cerrado;GESTIONADO;REPARADO
 19-07-2024;CONCEPCION;Juan Ignacio Merino ;PJTT34;Ampolelts foco izqyierdo quemado;GESTIONADO;Reparado
 19-07-2024;CONCEPCION;Cesar arias ;KLDZ-85;Extravió tapa bencina ;GESTIONADO;Tapa instalada
+18-07-2024;PUERTO MONTT;Jorge lara;SGVH72;Rueda delantera piloto desgastada y rajada ;GESTIONADO;CAMBIADOS
 17-07-2024;OTROS;Rolando;PBPD-75;Neumatico copiloto desgastado;pendiente;
 17-07-2024;CONCEPCION;Mauricio Ferrari ;JFGW86;Problemas con bateria  urge cambiarla por una bateria nueva;GESTIONADO;Bateria Cambiada
+16-07-2024;CASTRO;Manuel quilaqueo ;PKTJ 28 ;Luz del compartimiento de la mercadería no funciona ;GESTIONADO;RESUELTO
+16-07-2024;PUERTO MONTT;Jose;LHGR-61;Neumáticos malos;GESTIONADO;CAMBIADOS
+16-07-2024;CASTRO;Manuel quilaqueo ;PKTJ 28 ;Ampolleta neblinero mala;GESTIONADO;RESUELTO
 15-07-2024;OTROS;Carlos Indriago ;RYYH50;Bateria;pendiente;
+15-07-2024;TEMUCO;Rubén Sandoval ;RCYZ-82 ;Ampolleta quemada lado izquierdo, manilla puerta copiloto en mal estado ;GESTIONADO;Reparado
+13-07-2024;TEMUCO;Giovanny maliqueo ;SCZK-82;Soporte roto foco trasero derecho;GESTIONADO;Reparado
 12-07-2024;MELIPILLA;Nibaldo Arredondo ;HSTL24 ;Falla batería ;CERRADO;
+11-07-2024;PUERTO MONTT;Christopher Muñoz ;PB-KD-65 ;Cambio de neumaticos delanteros y traseros ;GESTIONADO;CAMBIADOS
+11-07-2024;CASTRO;Manuel quilaqueo ;PKTJ 28;Me encuentro en ruta y sale un olor fuerte en las ruedas parecido el olor a desgaste de embrague ;GESTIONADO;RESUELTO
+11-07-2024;CASTRO;Manuel quilaqueo ;PKTJ 28 ;Espejo lateral derecho suelto ;GESTIONADO;RESUELTO
 10-07-2024;OTROS;Jacqueline ;LHGR-58;Problemas con batería ;pendiente;
+10-07-2024;OSORNO;Jose aravena;PB KD 64;Neumaticos;GESTIONADO;Neumaticos Cambiados
+10-07-2024;CASTRO;Maryorie Ahumada;LGSX-61;Todos los neumaticos desgastados;GESTIONADO;RESUELTO
 08-07-2024;CONCEPCION;Néstor Balboa;RHYH-76;Problemas de bateria queda un rato con luces de estacionamiento y no enciende, de sábado a hoy lunes no enciende;GESTIONADO;Bateria Cambiada
 05-07-2024;VIÑA DEL MAR;Josue castillo ;KLDZ-61;Frenos en mal estado ,camion se dezplazo con freno mano puesto ;pendiente;
 05-07-2024;LOS ANGELES;Miguel delgado ;JKYP74;Líquido de freno bajo. Luces quemas;GESTIONADO;Reparado
@@ -82,67 +146,3 @@ Marca temporal;Centro de Venta;Escriba su nombre;patente ;descripcion ;estado ;c
 05-07-2024;CONCEPCION;Víctor morillo;RHYH59;Cerradura de cabina de carga mala ;GESTIONADO;Reparado
 02-07-2024;RANCAGUA;Frederick;RHYH64;Sonido en lado derecho, posible desgaste de pastillas de freno;CERRADO;
 01-07-2024;CONCEPCION;Benjamin suarez campos;JK YP 72;neumatico rajado y soporte de la puerta del conductor en mal estado;GESTIONADO;Reparado
-10-07-2024;OSORNO;Jose aravena;PB KD 64;Neumaticos;GESTIONADO;Neumaticos Cambiados
-10-07-2024;CASTRO;Maryorie Ahumada;LGSX-61;Todos los neumaticos desgastados;GESTIONADO;RESUELTO
-11-07-2024;PUERTO MONTT;Christopher Muñoz ;PB-KD-65 ;Cambio de neumaticos delanteros y traseros ;GESTIONADO;CAMBIADOS
-11-07-2024;CASTRO;Manuel quilaqueo ;PKTJ 28;Me encuentro en ruta y sale un olor fuerte en las ruedas parecido el olor a desgaste de embrague ;GESTIONADO;RESUELTO
-11-07-2024;CASTRO;Manuel quilaqueo ;PKTJ 28 ;Espejo lateral derecho suelto ;GESTIONADO;RESUELTO
-13-07-2024;TEMUCO;Giovanny maliqueo ;SCZK-82;Soporte roto foco trasero derecho;GESTIONADO;Reparado
-16-07-2024;CASTRO;Manuel quilaqueo ;PKTJ 28 ;Luz del compartimiento de la mercadería no funciona ;GESTIONADO;RESUELTO
-15-07-2024;TEMUCO;Rubén Sandoval ;RCYZ-82 ;Ampolleta quemada lado izquierdo, manilla puerta copiloto en mal estado ;GESTIONADO;Reparado
-26-07-2024;TEMUCO;Alexander salinas ;PJRC-49;Se enciende el vehículo y comienza a pestañar  la luz del check;GESTIONADO;Reparado
-16-07-2024;PUERTO MONTT;Jose;LHGR-61;Neumáticos malos;GESTIONADO;CAMBIADOS
-16-07-2024;CASTRO;Manuel quilaqueo ;PKTJ 28 ;Ampolleta neblinero mala;GESTIONADO;RESUELTO
-30-07-2024;TEMUCO;Jorge garces;KGCV31;Ampolleta quemada lado copiloto;GESTIONADO;Reparado
-02-08-2024;TEMUCO;Nicolas Carrillo;JKRL-12;Bateria en mal estado(a dejado en pana 4 veces);GESTIONADO;Bateria Cambiada
-18-07-2024;PUERTO MONTT;Jorge lara;SGVH72;Rueda delantera piloto desgastada y rajada ;GESTIONADO;CAMBIADOS
-22-07-2024;CASTRO;Anyelo ;LHGR50;Diferencia frenado alineamiento neumáticos desgastados cierre centralizado radio puertos de carga seguro puerta trasera espejo retrovisor puerta traerá mal cerrado;GESTIONADO;REPARADO
-26-07-2024;CASTRO;Rafael medina;LHGH13;DISCOS DE FRENO EN MAL ESTADO. Dificultan y entorpece la frenada cuando se va en carretera;GESTIONADO;REPARADO
-29-07-2024;PUERTO MONTT;Jose;LHGR-61;Neumáticos malos traseros ;GESTIONADO;CAMBIADOS
-07-08-2024;TEMUCO;Christopher herrera;SBYC46;Neumáticos traseros en mal estado ;GESTIONADO;Neumaticos Cambiados
-13-08-2024;TEMUCO;Pablo Perez;RPFT-33;Sin rueda de repuesto. por reventarse 1 en ruta;GESTIONADO;Neumaticos Cambiados
-03-08-2024;CASTRO;Anyelo;LHGR50;Batería mailisa no carga nada ;GESTIONADO;RESUELTO
-10-08-2024;CASTRO;Jacqueline mansilla ;LHGR58;Puerta en mal estado por golpe. ;GESTIONADO;RESUELTO
-12-08-2024;PUERTO MONTT;Luis mancilla;LHGR-64;Neumaticos;GESTIONADO;CAMBIADOS
-14-08-2024;TEMUCO;Héctor Sánchez Abarca ;GPRG93;Tiene batería buena pero no arranca el motor. Al girar llave no hace nada;GESTIONADO;Reparado
-12-08-2024;CASTRO;Jacqueline ;KGCV-28;Camioneta sin adaptadores para cargar impresora y celular. Además freno de mano en malas condiciones vehículo se desplaza aun con freno de manos. ;GESTIONADO;REPARADO
-13-08-2024;OSORNO;Pablo González ;LHGH23;Neumáticos gastados. Sin neumático de repuesto.;GESTIONADO;Neumaticos Cambiados
-20-08-2024;OSORNO;Hilario Fucha ;PKFD83;Espejo lado izquierdo trizado ;GESTIONADO;Espejo Cambiado
-22-08-2024;TEMUCO;José Muñoz;SF-FL-47;Plumillas en Mal Estado;GESTIONADO;Plumilla Cambiada
-24-08-2024;OSORNO;Hilario Fucha ;PKFD83;Luz baja quemada ;GESTIONADO;Ampolleta Cambiada
-27-08-2024;CASTRO;Jacqueline;KGCV-28;Luz de falla motor permanece encendido aun motor andando, neumáticos con desgastes por roces fotografía enviadas a supervisora.;GESTIONADO;RESUELTO
-13-09-2024;TEMUCO;Francisco velarde;SRZC-28;los rodamiento delatero esta sonando mucho ;GESTIONADO;Rodamientos cambiados
-07-09-2024;OSORNO;Moira Vargas;PKFF44;Falla en pantalla ;GESTIONADO;Reparado
-09-09-2024;CASTRO;Manuel quilaqueo ;LGSX64;Faro trasero roto lado chófer tracero ;GESTIONADO;RESUELTO
-09-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32;Bateria fallando, camara de retroseso funciona con itermitencia, frenos vibran al accionar el pedal, check in se enciende y apaga a cada instante ;GESTIONADO;CAMBIADA
-27-09-2024;TEMUCO;Héctor ;JKRL-14;Cinturón de seguridad en mal estado. ;GESTIONADO;REPARADO
-10-09-2024;PUERTO MONTT;Sergio Mazzanti ;PGBX-94;Falta la llave de la bóveda ;GESTIONADO;SOLUCIONADO
-14-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32;Batería fallando, al accionar el freno, vehículo vibra, cámara de retroceso no funciona correctamente, check In, se enciende y se apaga a cada momento ;GESTIONADO;BATERIA CAMBIADA
-16-09-2024;PUERTO MONTT;Claudio cifuentes ;LGSX28;Batería ;GESTIONADO;CAMBIADA
-23-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32 ;Batería fallando, al accionar pedal de freno, vehículo vibra, cámara de retroceso funciona con intermitencia, mica foco de luz de freno lado chofer rota, check In se enciende y se apaga a cada instante ;GESTIONADO;INGRESAR A AVIS
-23-09-2024;OSORNO;Matías ;LHGR-68;Cable de alimentación electrónica a impresora funciona al apretarlo , dejando así la impresora sin carga ;GESTIONADO;Revisado
-25-09-2024;PUERTO MONTT;Ernesto Inostroza Cavieres ;LH.GR44;No da arranque en la mañana ;GESTIONADO;CAMBIADA
-27-09-2024;PUERTO MONTT;Julio rosas uribe;LH GH 14;Enbreage demaciado duro para pasar los cambios, y caja de cambio hay que esforsarla para pasar cambio;GESTIONADO;RESUELTO
-27-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32 ;Frenos no funcionan perfectamente, al accionar vehículo vibra fuerte, cámara de retroceso funciona con intermitencia, mica foco de freno lado chofer quebrado ;GESTIONADO;INGRESA A TALLER 28/10
-08-10-2024;OSORNO;Gerson Muñoz;PKFF15;Problemas en el ingreso del dinero de la caja fuerte, se traba el dinero y no permite el ingreso de los demás billetes;GESTIONADO;Revisado
-11-10-2024;OSORNO;Gerson Muñoz ;PKFF15;Se pinchó neumático trasero lado izquierdo, la semana pasada se parcho y tenía una fisura, duro una semana;GESTIONADO;RESUELTO
-14-10-2024;PUERTO MONTT;Jose;LH.GR-61;Interruptor en mal estado;GESTIONADO;RESUELTO
-14-10-2024;PUERTO MONTT;Jose;LH-GR-61;Sin llave de ruedas ;GESTIONADO;
-15-10-2024;OSORNO;Christofer  Pacheco;LHGR-63;Falla en luz interior ;GESTIONADO;REPARADO
-15-10-2024;PUERTO MONTT;Jose;PB.KD-65;Parachoque en mal estado ;GESTIONANDO;REPARADO
-15-10-2024;ANTOFAGASTA;Katherine navarrete;LGSX98;Luz de cajon, parabrisas, espejos de los retrovisores y marchas;pendiente;
-15-10-2024;CONCEPCION;Joanmel Dios ;PKTJ77;Neblineros quemados ;GESTIONADO;Reparado
-16-10-2024;PUERTO MONTT;Jose;PB.KD-65 ;Espejos malos;GESTIONADO;REPARADO
-16-10-2024;PUERTO MONTT;Jose;PB.KD-65 ;Liquido de frenos al mínimo se enciende la luz;GESTIONADO;RESUELTO
-16-10-2024;PUERTO MONTT;Jose;PB.KD-65 ;Luces malas;GESTIONADO;CAMBIO DE AMPOLLETAS
-16-10-2024;PUERTO MONTT;Jose;PB.KD;Frena mano malo;GESTIONADO;REPARADO
-16-10-2024;PUERTO MONTT;Jose;LH.GR-61 ;Cámara retroceso mala;GESTIONADO;REPARADO
-16-10-2024;CONCEPCION;Mauricio Ferrari ;JFGW86;Problemas en el arranque;GESTIONADO;Revisado 
-16-10-2024;TALCA;Felipe toloza;SSSZ56;Parabrisa trisado;GESTIONADO;Se cotiza parabrisas
-16-10-2024;LOS ANGELES;Danilo Rivas ;PLDV-45;Intermitente derecho trasero malo;GESTIONADO;Ampolleta Cambiada
-16-10-2024;CONCEPCION;Mauricio Antilef ;RCYZ91;Cambio de plumillas , en mal estado ;GESTIONADO;Plumilla Cambiada
-17-10-2024;OTROS;Alexis Yepez;LGSF-95;Foco derecho delantero quemado;pendiente;
-17-10-2024;TALCA;Cristian Orellana;PLJR-67;Parabrisas con una fisura;GESTIONADO;
-18-10-2024;OTROS;Rolando;PBPD-75;Falta liquido de frenos!;pendiente;
-19-10-2024;CONCEPCION;Alejandro alfonso chandia bustamante ;JKBX71;Rotura de parachoque trasero  lado derecho ;GESTIONADO;
-21-10-2024;LOS ANGELES;Luis carrera ;RCZB15;Falta de repuestos;pendiente;
