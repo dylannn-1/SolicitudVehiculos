@@ -1,12 +1,12 @@
 Marca temporal;Centro de Venta;Escriba su nombre;patente ;Descripción de la falla;Estado ;Comentarios
-22-10-2024;SAN FERNANDO;Alex m;RHYH69;Ajustar tuercas de ruedas.... Una rueda le falta una tuerca... Importante ;Pendiente ;
-22-10-2024;EL PINAR;Felipe Miranda ;JCDT33;Valla motor de partida ;Pendiente ;
+22-10-2024;SAN FERNANDO;Alex m;RHYH69;Ajustar tuercas de ruedas.... Una rueda le falta una tuerca... Importante ;PENDIENTE ;
+22-10-2024;EL PINAR;Felipe Miranda ;JCDT33;Valla motor de partida ;PENDIENTE ;
 22-10-2024;OSORNO;Gerson Muñoz ;PKFF15;Llave dentro de cabina de carga;GESTIONADO;RESUELTO
-21-10-2024;LOS ANGELES;Luis carrera ;RCZB15;Falta de repuestos;Pendiente ;
+21-10-2024;LOS ANGELES;Luis carrera ;RCZB15;Falta de repuestos;PENDIENTE ;
 19-10-2024;CONCEPCION;Alejandro alfonso chandia bustamante ;JKBX71;Rotura de parachoque trasero  lado derecho ;GESTIONADO;
-18-10-2024;OTROS;Rolando;PBPD-75;Falta liquido de frenos!;Pendiente ;
+18-10-2024;OTROS;Rolando;PBPD-75;Falta liquido de frenos!;PENDIENTE ;
 17-10-2024;TALCA;Cristian Orellana;PLJR-67;Parabrisas con una fisura;GESTIONADO;
-17-10-2024;OTROS;Alexis Yepez;LGSF-95;Foco derecho delantero quemado;Pendiente ;
+17-10-2024;OTROS;Alexis Yepez;LGSF-95;Foco derecho delantero quemado;PENDIENTE ;
 16-10-2024;CONCEPCION;Mauricio Antilef ;RCYZ91;Cambio de plumillas , en mal estado ;GESTIONADO;Plumilla Cambiada
 16-10-2024;LOS ANGELES;Danilo Rivas ;PLDV-45;Intermitente derecho trasero malo;GESTIONADO;Ampolleta Cambiada
 16-10-2024;TALCA;Felipe toloza;SSSZ56;Parabrisa trisado;GESTIONADO;Se cotiza parabrisas
@@ -17,7 +17,7 @@ Marca temporal;Centro de Venta;Escriba su nombre;patente ;Descripción de la fal
 16-10-2024;PUERTO MONTT;Jose;PB.KD-65 ;Liquido de frenos al mínimo se enciende la luz;GESTIONADO;RESUELTO
 16-10-2024;PUERTO MONTT;Jose;PB.KD-65 ;Espejos malos;GESTIONADO;REPARADO
 15-10-2024;CONCEPCION;Joanmel Dios ;PKTJ77;Neblineros quemados ;GESTIONADO;Reparado
-15-10-2024;ANTOFAGASTA;Katherine navarrete;LGSX98;Luz de cajon, parabrisas, espejos de los retrovisores y marchas;Pendiente ;
+15-10-2024;ANTOFAGASTA;Katherine navarrete;LGSX98;Luz de cajon, parabrisas, espejos de los retrovisores y marchas;PENDIENTE ;
 15-10-2024;PUERTO MONTT;Jose;PB.KD-65;Parachoque en mal estado ;GESTIONADO;REPARADO
 15-10-2024;OSORNO;Christofer  Pacheco;LHGR-63;Falla en luz interior ;GESTIONADO;REPARADO
 14-10-2024;CONCEPCION;Benjamin;JKRL20;Luz izquierda quemada;GESTIONADO;Luz Cambiada
@@ -26,27 +26,27 @@ Marca temporal;Centro de Venta;Escriba su nombre;patente ;Descripción de la fal
 11-10-2024;OSORNO;Gerson Muñoz ;PKFF15;Se pinchó neumático trasero lado izquierdo, la semana pasada se parcho y tenía una fisura, duro una semana;GESTIONADO;RESUELTO
 11-10-2024;CONCEPCION;Angel Labrador ;PJTV92;Pinchazo rueda trasera ;GESTIONADO;Reparada
 08-10-2024;OSORNO;Gerson Muñoz;PKFF15;Problemas en el ingreso del dinero de la caja fuerte, se traba el dinero y no permite el ingreso de los demás billetes;GESTIONADO;Revisado
-08-10-2024;OTROS;Cristian Martel ;PBKD57;Parabrisas rotó puertas de cajón descuadradas pastillas de freno luz de cajon;Pendiente ;
+08-10-2024;OTROS;Cristian Martel ;PBKD57;Parabrisas rotó puertas de cajón descuadradas pastillas de freno luz de cajon;PENDIENTE ;
 08-10-2024;SAN FERNANDO;Alex Martinez ;RHYH69;Problemas en caja de cambio... Marcha 6 no pasa... Urgente... Neumáticos gastados;GESTIONADO;
-08-10-2024;ANTOFAGASTA;;LGSX56 ;Pastillas rueda delantera.parachoque.luz cajon.pestillo puerta trasera.estante desoldado;Pendiente ;
-08-10-2024;OTROS;Alexis Yepez;LGSF-95;Foco delantero lado derecho quemado;Pendiente ;
-08-10-2024;OTROS;Miguel vega ;PBKD 49;Falta ampolleta de iluminación en el cajón ;Pendiente ;
+08-10-2024;ANTOFAGASTA;;LGSX56 ;Pastillas rueda delantera.parachoque.luz cajon.pestillo puerta trasera.estante desoldado;PENDIENTE ;
+08-10-2024;OTROS;Alexis Yepez;LGSF-95;Foco delantero lado derecho quemado;PENDIENTE ;
+08-10-2024;OTROS;Miguel vega ;PBKD 49;Falta ampolleta de iluminación en el cajón ;PENDIENTE ;
 05-10-2024;CASTRO;Jorge;SGVH72;Piedra en ruta hizo piquete en el vidrio ;GESTIONADO;POR INGRESA A TALLER
-04-10-2024;OTROS;Aliki vargas;LGSX-79 ;Pastillas gastadas, caliper sonando de ambos neumatico y fuga de agua camiol reparado hace 1 semana y no esta en buena condiciones ;Pendiente ;
-04-10-2024;OTROS;Miguel vega;PBKD49 ;No tiene ampolleta de iluminación en interior de cajon ;Pendiente ;
-04-10-2024;OTROS;Alexis Yepez ;LGSF-95;Foco delantero lado derecho quemado;Pendiente ;
-04-10-2024;OTROS;Cristian ramirez Martel ;PBKD57;Parabrisas trisado, cuadrar puerta trasera de cajón e iluminación interior de cajón ;Pendiente ;
-04-10-2024;ANTOFAGASTA;Hector nuñez;LGSX56;Parachoque luces cajon pestillo trasero puerta;Pendiente ;
-30-09-2024;VIÑA DEL MAR;Sebastian ;RHYH75;Espejo suelto;Pendiente ;
+04-10-2024;OTROS;Aliki vargas;LGSX-79 ;Pastillas gastadas, caliper sonando de ambos neumatico y fuga de agua camiol reparado hace 1 semana y no esta en buena condiciones ;PENDIENTE ;
+04-10-2024;OTROS;Miguel vega;PBKD49 ;No tiene ampolleta de iluminación en interior de cajon ;PENDIENTE ;
+04-10-2024;OTROS;Alexis Yepez ;LGSF-95;Foco delantero lado derecho quemado;PENDIENTE ;
+04-10-2024;OTROS;Cristian ramirez Martel ;PBKD57;Parabrisas trisado, cuadrar puerta trasera de cajón e iluminación interior de cajón ;PENDIENTE ;
+04-10-2024;ANTOFAGASTA;Hector nuñez;LGSX56;Parachoque luces cajon pestillo trasero puerta;PENDIENTE ;
+30-09-2024;VIÑA DEL MAR;Sebastian ;RHYH75;Espejo suelto;PENDIENTE ;
 27-09-2024;TEMUCO;Héctor ;JKRL-14;Cinturón de seguridad en mal estado. ;GESTIONADO;REPARADO
 27-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32 ;Frenos no funcionan perfectamente, al accionar vehículo vibra fuerte, cámara de retroceso funciona con intermitencia, mica foco de freno lado chofer quebrado ;GESTIONADO;INGRESA A TALLER 28/10
 27-09-2024;PUERTO MONTT;Julio rosas uribe;LH GH 14;Enbreage demaciado duro para pasar los cambios, y caja de cambio hay que esforsarla para pasar cambio;GESTIONADO;RESUELTO
 26-09-2024;LO ESPEJO;Ramon Gustavo Salazar ;JKGH-41;Derramó líquido a la altura de la rueda delantera derecha ;GESTIONADO;
-26-09-2024;OTROS;Alexis Yepez;LGSF-95;Foco delantero quemado, cable de batería no ajustado;Pendiente ;
+26-09-2024;OTROS;Alexis Yepez;LGSF-95;Foco delantero quemado, cable de batería no ajustado;PENDIENTE ;
 26-09-2024;LOS ANGELES;Jonathan Paredes;JFHB-12;Bocina no funciona ;GESTIONADO;
 25-09-2024;LOS ANGELES;José Carlos loyola ;SJDJ82;Vehículo vibra demaciado al tomar un poco de velocidad ;GESTIONADO;Cambio Neumaticos
-25-09-2024;OTROS;Jorge Nuñez Martinez ;PJJJ64;Bateria y mantencion camion;Pendiente ;
-25-09-2024;IQUIQUE;hector ;LGSX-20;vehículo se sube la temperatura y freno zapatea ;Pendiente ;
+25-09-2024;OTROS;Jorge Nuñez Martinez ;PJJJ64;Bateria y mantencion camion;PENDIENTE ;
+25-09-2024;IQUIQUE;hector ;LGSX-20;vehículo se sube la temperatura y freno zapatea ;PENDIENTE ;
 25-09-2024;PUERTO MONTT;Ernesto Inostroza Cavieres ;LH.GR44;No da arranque en la mañana ;GESTIONADO;CAMBIADA
 24-09-2024;TALCA;Cristian Castro ;RTJF94;Puerta del conductor no abre con la llave y control no funciona ;GESTIONADO;Cambio de cilindro puerta
 24-09-2024;SAN FERNANDO;Natalia cubillos;FSSW68;Tornillo en neumatico;GESTIONADO;
@@ -57,7 +57,7 @@ Marca temporal;Centro de Venta;Escriba su nombre;patente ;Descripción de la fal
 16-09-2024;PUERTO MONTT;Claudio cifuentes ;LGSX28;Batería ;GESTIONADO;CAMBIADA
 14-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32;Batería fallando, al accionar el freno, vehículo vibra, cámara de retroceso no funciona correctamente, check In, se enciende y se apaga a cada momento ;GESTIONADO;BATERIA CAMBIADA
 13-09-2024;TEMUCO;Francisco velarde;SRZC-28;los rodamiento delatero esta sonando mucho ;GESTIONADO;Rodamientos cambiados
-12-09-2024;ANTOFAGASTA;Hector nuñez;LGSX56;Malo el parachoque delantero,cable mano impresora,;Pendiente ;
+12-09-2024;ANTOFAGASTA;Hector nuñez;LGSX56;Malo el parachoque delantero,cable mano impresora,;PENDIENTE ;
 10-09-2024;PUERTO MONTT;Sergio Mazzanti ;PGBX-94;Falta la llave de la bóveda ;GESTIONADO;SOLUCIONADO
 10-09-2024;LOS ANGELES;Luis Cabezas;SRHK 40;Neumatico descompuesto, tercera luz de freno. ;GESTIONADO;REPARADO
 09-09-2024;PUERTO MONTT;Alejandro Rosas ;LGSX-32;Bateria fallando, camara de retroseso funciona con itermitencia, frenos vibran al accionar el pedal, check in se enciende y apaga a cada instante ;GESTIONADO;CAMBIADA
@@ -68,18 +68,18 @@ Marca temporal;Centro de Venta;Escriba su nombre;patente ;Descripción de la fal
 05-09-2024;TALCA;Elías Carreño ;PJTV-31;viniendo por carretera algo golpea el parabrisas y deja la marca ;GESTIONADO;
 03-09-2024;EL PINAR;Daniel leiva;KVDP96 ;Parachoques sueldo lado izquierdo ;GESTIONADO;
 03-09-2024;EL PINAR;Daniel leiva;KVDP96;Prendido chec engenir ;GESTIONADO;
-03-09-2024;SAN FERNANDO;Juan pablo catalan;GKYX-99;Neumático delantero lado derecho, en malas condiciones de desgaste;Pendiente ;
-02-09-2024;SAN FERNANDO;Alex Martinez ;FKRD80;Disminución líquido refrigerante.... Humo negro en salida de escape...;Pendiente ;
+03-09-2024;SAN FERNANDO;Juan pablo catalan;GKYX-99;Neumático delantero lado derecho, en malas condiciones de desgaste;PENDIENTE ;
+02-09-2024;SAN FERNANDO;Alex Martinez ;FKRD80;Disminución líquido refrigerante.... Humo negro en salida de escape...;PENDIENTE ;
 02-09-2024;SAN FERNANDO;Alex Martinez ;FKRD80;Revisar frenos inestables al frenar con pedal.... Aparte freno de mano no frena...;GESTIONADO;
 31-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77 ;Disco de freno del lado izquierdo del conductor desgastado emite sonido al frenar y carga hacia el lado izquierdo ;GESTIONADO;
 30-08-2024;TALCA;Elias Carreño ;PJTV-31;Falla chapa lado conductor, no abre;GESTIONADO;Chapa Cambiada
-29-08-2024;OTROS;Nicolas fritis;FGBW77;Fallo motor de arranque en ruta debiendo hacer cambio de camion,  embrague corto, falta un espejo, palanca de cambios suelta, alzavidrios fallando, falta de potencia, falta de regulacion en frenos, falta de regulacion freno de estacionamiento, filtracion de humo de escape a cabina, puertas de cajon con juego y se abren, falta gomas de las pedaleras, se notifico al mecánico indicando de su parte que no podia diagnosticar la falla que no veía.;Pendiente ;
+29-08-2024;OTROS;Nicolas fritis;FGBW77;Fallo motor de arranque en ruta debiendo hacer cambio de camion,  embrague corto, falta un espejo, palanca de cambios suelta, alzavidrios fallando, falta de potencia, falta de regulacion en frenos, falta de regulacion freno de estacionamiento, filtracion de humo de escape a cabina, puertas de cajon con juego y se abren, falta gomas de las pedaleras, se notifico al mecánico indicando de su parte que no podia diagnosticar la falla que no veía.;PENDIENTE ;
 29-08-2024;SAN FERNANDO;Natalia Cubillos;FSSW-68;Plumillas en mal estado ;GESTIONADO;
 28-08-2024;LO ESPEJO;Cristian Galaz ;HSTL34;Ventanas no suben ni bajan ;GESTIONADO;
-28-08-2024;SAN FERNANDO;Alex;FKRD80;Problema de frenos general y cajón mal aislado ;Pendiente ;
-28-08-2024;LA SERENA;Giovanni malebran;PF Y-24;No funciona la radio con pantalla y con ese problema no funciona la cámara de retroceso ;Pendiente ;
+28-08-2024;SAN FERNANDO;Alex;FKRD80;Problema de frenos general y cajón mal aislado ;PENDIENTE ;
+28-08-2024;LA SERENA;Giovanni malebran;PF Y-24;No funciona la radio con pantalla y con ese problema no funciona la cámara de retroceso ;PENDIENTE ;
 27-08-2024;CASTRO;Jacqueline;KGCV-28;Luz de falla motor permanece encendido aun motor andando, neumáticos con desgastes por roces fotografía enviadas a supervisora.;GESTIONADO;RESUELTO
-27-08-2024;OTROS;Juan Vargas ;LHGH-27;Problemas de batería tercer día consecutivo que se queda sin bateria;Pendiente ;
+27-08-2024;OTROS;Juan Vargas ;LHGH-27;Problemas de batería tercer día consecutivo que se queda sin bateria;PENDIENTE ;
 24-08-2024;SAN FERNANDO;Gastón Carreño Ramirez ;PJTT-25;Luces de baja quemada ;GESTIONADO;
 24-08-2024;OSORNO;Hilario Fucha ;PKFD83;Luz baja quemada ;GESTIONADO;Ampolleta Cambiada
 24-08-2024;LO ESPEJO;Jorge Carrillo Jerez;KFWT-78;No encienden las luces de retroceso y chapa de encendido con problemas de conexión ;GESTIONADO;
@@ -101,7 +101,7 @@ Marca temporal;Centro de Venta;Escriba su nombre;patente ;Descripción de la fal
 09-08-2024;LO ESPEJO;Francisco aguilera;KLDZ88;Camion se queda parado sin fuerza en plena autopista;GESTIONADO;
 09-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77 VEHíCULO 2565;Puerta trasera izquierda chocada no cierra bien por favor realizar reparación lo antes posible o reemplazar por un vehículo grande ya que ando en una terrano y es difícil trabajar así la ruta de Consumo ;GESTIONADO;
 07-08-2024;TEMUCO;Christopher herrera;SBYC46;Neumáticos traseros en mal estado ;GESTIONADO;Neumaticos Cambiados
-06-08-2024;SAN FERNANDO;Marcelo salazar;PGPY69;Soporte tubo de escape malo o roto;Pendiente ;
+06-08-2024;SAN FERNANDO;Marcelo salazar;PGPY69;Soporte tubo de escape malo o roto;PENDIENTE ;
 06-08-2024;LOS ANGELES;Luis carrera ;RCZB-15;Falta de Repuesto del vehículo Neumático trasero del vehículo por Doblemente reparado ;GESTIONADO;Reparado
 03-08-2024;SAN FERNANDO;Jean Maestre ;KLDZ 77;Puerta del Cajón chocada no cierra bien es difícil trabajar así por favor reparar lo antes posible ;GESTIONADO;
 03-08-2024;CASTRO;Anyelo;LHGR50;Batería mailisa no carga nada ;GESTIONADO;RESUELTO
