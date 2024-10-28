@@ -1,4 +1,7 @@
-Marca temporal;Centro de Venta;Escriba su nombre;;Descripción de la falla;Estado ;Comentarios
+Marca temporal;Centro de Venta;Escriba su nombre;patente ;Descripción de la falla;Estado ;Comentarios
+25-10-2024;TEMUCO;Mauricio Miranda ;FGBW74;Falla inyectores al parecer(húmea);PENDIENTE ;
+25-10-2024;RANCAGUA;Matias Caroca;KLDZ-63;Espejo roto ;PENDIENTE ;
+25-10-2024;TEMUCO;Pablo Perez;RPFT33;Sin neumático de repuesto rueda pequeña;PENDIENTE ;
 24-10-2024;LOS ANGELES;Matías Leiva ;KGCV44 ;Sin manilla ;PENDIENTE ;
 24-10-2024;LOS ANGELES;Matías Leiva ;KGCV44;Sin Radio ;PENDIENTE ;
 24-10-2024;LOS ANGELES;Mariano Martinez Burgos ;RFJF68;Neumatico trasero ;PENDIENTE ;
