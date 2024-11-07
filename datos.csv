@@ -1,28 +1,28 @@
 Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la falla;Estado ;Comentarios
-05-11-2024;TEMUCO;Patricio 6;PG BX 88;Encendido de check engine;PENDIENTE;
+05-11-2024;TEMUCO;Patricio 6;PG BX 88;Encendido de check engine;GESTIONADO;En Revision
 01-11-2024;IQUIQUE;John uribe;LHGH-19;Discos de freno y pastillas. ;PENDIENTE;
 29-10-2024;CEDIS;Rodrigo Briceño;HSTL25;No funciona el sistema de aire, no tira aire en ningún selector por lo cuál tampoco funciona el A/C;PENDIENTE;
 28-10-2024;LA SERENA;Sandra Araya;JBBB34;Puerta trasera caida y llave de cajor algo chueca;PENDIENTE;
 28-10-2024;LOS ANDES;Elías Curi ;JCPX78 ;Freno de pie y de mano en mal estado ;PENDIENTE;
 28-10-2024;LOS ANDES;Elías Curi ;JCPX78;Luz delantera izquierda y de retroceso quemada;PENDIENTE;
-25-10-2024;TEMUCO;Mauricio Miranda ;FGBW74;Falla inyectores al parecer(húmea);PENDIENTE;
+25-10-2024;TEMUCO;Mauricio Miranda ;FGBW74;Falla inyectores al parecer(húmea);GESTIONADO;En Revision
 25-10-2024;RANCAGUA;Matias Caroca;KLDZ-63;Espejo roto ;GESTIONADO;se cambio espejo
-25-10-2024;TEMUCO;Pablo Perez;RPFT33;Sin neumático de repuesto rueda pequeña;PENDIENTE;
-24-10-2024;LOS ANGELES;Matías Leiva ;KGCV44 ;Sin manilla ;PENDIENTE;
-24-10-2024;LOS ANGELES;Matías Leiva ;KGCV44;Sin Radio ;PENDIENTE;
-24-10-2024;LOS ANGELES;Mariano Martinez Burgos ;RFJF68;Neumatico trasero ;PENDIENTE;
+25-10-2024;TEMUCO;Pablo Perez;RPFT33;Sin neumático de repuesto rueda pequeña;GESTIONADO;REPARADO
+24-10-2024;LOS ANGELES;Matías Leiva ;KGCV44 ;Sin manilla ;GESTIONADO;RESUELTO
+24-10-2024;LOS ANGELES;Matías Leiva ;KGCV44;Sin Radio ;GESTIONADO;Presupuesto Aprobado
+24-10-2024;LOS ANGELES;Mariano Martinez Burgos ;RFJF68;Neumatico trasero ;GESTIONADO;Se compro LLanta Faltante
 24-10-2024;ANTOFAGASTA;Katherine navarrete;LGSW98;Palanca de cambio ;PENDIENTE;
-22-10-2024;SAN FERNANDO;Alex m;RHYH69;Ajustar tuercas de ruedas.... Una rueda le falta una tuerca... Importante ;GESTIONADO;VEHÍCULO SE FUE DE BAJA
+22-10-2024;SAN FERNANDO;Alex m;RHYH69;Ajustar tuercas de ruedas.... Una rueda le falta una tuerca... Importante ;GESTIONADO;REPARADO
 22-10-2024;EL PINAR;Felipe Miranda ;JCDT33;Valla motor de partida ;GESTIONADO;SE CAMBIA MOTOR DE PARTIDA EN TERRENO
 22-10-2024;OSORNO;Gerson Muñoz ;PKFF15;Llave dentro de cabina de carga;GESTIONADO;RESUELTO
 21-10-2024;LOS ANGELES;Luis carrera ;RCZB15;Falta de repuestos;GESTIONADO;A la espera de Presupuesto
 19-10-2024;CONCEPCION;Alejandro alfonso chandia bustamante ;JKBX71;Rotura de parachoque trasero  lado derecho ;GESTIONADO;Parachoques reparado
 18-10-2024;OTROS;Rolando;PBPD-75;Falta liquido de frenos!;PENDIENTE;
-17-10-2024;TALCA;Cristian Orellana;PLJR-67;Parabrisas con una fisura;GESTIONADO;Envio Presupuesto
+17-10-2024;TALCA;Cristian Orellana;PLJR-67;Parabrisas con una fisura;GESTIONADO;Parabrisas Cambiado
 17-10-2024;OTROS;Alexis Yepez;LGSF-95;Foco derecho delantero quemado;PENDIENTE;
 16-10-2024;CONCEPCION;Mauricio Antilef ;RCYZ91;Cambio de plumillas , en mal estado ;GESTIONADO;Plumilla Cambiada
 16-10-2024;LOS ANGELES;Danilo Rivas ;PLDV-45;Intermitente derecho trasero malo;GESTIONADO;Ampolleta Cambiada
-16-10-2024;TALCA;Felipe toloza;SSSZ56;Parabrisa trisado;GESTIONADO;Se cotiza parabrisas
+16-10-2024;TALCA;Felipe toloza;SSSZ56;Parabrisa trisado;GESTIONADO;Parabrisas Cambiado
 16-10-2024;CONCEPCION;Mauricio Ferrari ;JFGW86;Problemas en el arranque;GESTIONADO;Revisado 
 16-10-2024;PUERTO MONTT;Jose;LH.GR-61 ;Cámara retroceso mala;GESTIONADO;REPARADO
 16-10-2024;PUERTO MONTT;Jose;PB.KD;Frena mano malo;GESTIONADO;REPARADO
@@ -40,7 +40,7 @@ Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la fall
 11-10-2024;CONCEPCION;Angel Labrador ;PJTV92;Pinchazo rueda trasera ;GESTIONADO;Reparada
 08-10-2024;OSORNO;Gerson Muñoz;PKFF15;Problemas en el ingreso del dinero de la caja fuerte, se traba el dinero y no permite el ingreso de los demás billetes;GESTIONADO;Revisado
 08-10-2024;OTROS;Cristian Martel ;PBKD57;Parabrisas rotó puertas de cajón descuadradas pastillas de freno luz de cajon;PENDIENTE;
-08-10-2024;SAN FERNANDO;Alex Martinez ;RHYH69;Problemas en caja de cambio... Marcha 6 no pasa... Urgente... Neumáticos gastados;GESTIONADO;
+08-10-2024;SAN FERNANDO;Alex Martinez ;RHYH69;Problemas en caja de cambio... Marcha 6 no pasa... Urgente... Neumáticos gastados;GESTIONADO;A LA ESPERA DE CAMBIAR PARA REPARAR CAJA
 08-10-2024;ANTOFAGASTA;;LGSX56 ;Pastillas rueda delantera.parachoque.luz cajon.pestillo puerta trasera.estante desoldado;PENDIENTE;
 08-10-2024;OTROS;Alexis Yepez;LGSF-95;Foco delantero lado derecho quemado;PENDIENTE;
 08-10-2024;OTROS;Miguel vega ;PBKD 49;Falta ampolleta de iluminación en el cajón ;PENDIENTE;
