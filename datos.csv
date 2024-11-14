@@ -1,13 +1,13 @@
 Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la falla;Estado ;Comentarios
 13-11-2024;OSORNO;Christofer Pacheco;LHGR-63;Luz interior no prende;PENDIENTE ;
 13-11-2024;EL PINAR;Felipe Miranda ;Jcdt33 ;Chapa reventada puerta de conductor ;PENDIENTE ;
-13-11-2024;CEDIS;Nelson Gomez;JKGH-36;No funciona el aire acondicionado, cilindro de la puerta del piloto alarma con control no funciona;PENDIENTE ;EN REVISION 
+13-11-2024;CEDIS;Nelson Gomez;JKGH-36;No funciona el aire acondicionado, cilindro de la puerta del piloto alarma con control no funciona;GESTIONADO;MA�ANA INGRESA A TALLER 
 12-11-2024;OSORNO;Christofer;LHGR-63;Bateria se descarga rapido;GESTIONADO;
 12-11-2024;TALCA;Jorge Andrade;SCZL-43;Rotura de parabrisas por piedra en la carretra ;GESTIONADO;
 08-11-2024;SAN FERNANDO;Gastón Carreño Ramirez ;PJTT-25 ;Se salió un soporte que afirma el cajón.  el cajón tiene aislante el desgastado y Se calienta los productos. Neumatico trasero izquierdo con pequeños orificio. Falta alineación la dirección vibra.;PENDIENTE ;
 05-11-2024;TEMUCO;Patricio 6;PG BX 88;Encendido de check engine;GESTIONADO;En Revision
 01-11-2024;IQUIQUE;John uribe;Lhgh-19;Discos de freno y pastillas. ;PENDIENTE ;
-29-10-2024;CEDIS;Rodrigo Briceño;HSTL25;No funciona el sistema de aire, no tira aire en ningún selector por lo cuál tampoco funciona el A/C;GESTIONADO;
+29-10-2024;CEDIS;Rodrigo Briceño;HSTL25;No funciona el sistema de aire, no tira aire en ningún selector por lo cuál tampoco funciona el A/C;GESTIONADO;CAMBIO DE COMPRESOR AIRE ACONDICIONADO 
 28-10-2024;LA SERENA;Sandra Araya;JBBB34;Puerta trasera caida y llave de cajor algo chueca;GESTIONADO;
 28-10-2024;LOS ANDES;Elías Curi ;Jcpx78 ;Freno de pie y de mano en mal estado ;GESTIONADO;
 28-10-2024;LOS ANDES;Elías Curi ;Jcpx78;Luz delantera izquierda y de retroceso quemada;GESTIONADO;
@@ -23,7 +23,7 @@ Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la fall
 22-10-2024;OSORNO;Gerson Muñoz ;Pkff15;Llave dentro de cabina de carga;GESTIONADO;RESUELTO
 21-10-2024;LOS ANGELES;Luis carrera ;Rczb15;Falta de repuestos;GESTIONADO;A la espera de Presupuesto
 19-10-2024;CONCEPCION;Alejandro alfonso chandia bustamante ;Jkbx71;Rotura de parachoque trasero  lado derecho ;GESTIONADO;Parachoques reparado
-18-10-2024;CALAMA;Rolando;PBPD-75;Falta liquido de frenos!;GESTIONADO;
+18-10-2024;QUILICURA ;Rolando;PBPD-75;Falta liquido de frenos!;GESTIONADO;CAMBIO DE  O'RING 
 17-10-2024;TALCA;Cristian Orellana;PLJR-67;Parabrisas con una fisura;GESTIONADO;Parabrisas Cambiado
 17-10-2024;CALAMA;Alexis Yepez;LGSF-95;Foco derecho delantero quemado;GESTIONADO;
 16-10-2024;CONCEPCION;Mauricio Antilef ;Rcyz91;Cambio de plumillas , en mal estado ;GESTIONADO;Plumilla Cambiada
