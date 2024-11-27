@@ -1,10 +1,13 @@
 Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la falla;Estado ;Comentarios;@dropdown;@
+26-11-2024;CASTRO;Jorge lara;SGVH72;Dos ruedas traseras lado copiloto reventadas;PENDIENTE;;;
+26-11-2024;TEMUCO;Raúl Salgado ;SRZC42;Vibracion en el volante;PENDIENTE;;;
+26-11-2024;OTROS;Quilicura;GPRG78;Bateria mal estado ;PENDIENTE;;;
 25-11-2024;SAN FERNANDO;Natalia cubillos;PKFF54;Neumático desgastado;PENDIENTE;;;
 25-11-2024;SAN FERNANDO;John;RHYH-77;Neumático en mal estado;PENDIENTE;;;
 23-11-2024;LO ESPEJO;Michel;SDZG-29;Cremallera de ventana mala;PENDIENTE;;;
 18-11-2024;RANCAGUA;Antonio Ortiz ;RFJF-73;Conduciendo en ruta travesía salto una piedra en el parabrisas ;PENDIENTE;;;
-15-11-2024;PUERTO MONTT;Jose;LH.GR-61;Palanca de cambios sin protección ;GESTIONADO;;;
-15-11-2024;PUERTO MONTT;Jose;LH.GR-61 ;Pedal embrague sin protección goma;GESTIONADO;;;
+15-11-2024;PUERTO MONTT;Jose;LH.GR-61;Palanca de cambios sin protección ;GESTIONADO;REPARADO;;
+15-11-2024;PUERTO MONTT;Jose;LH.GR-61 ;Pedal embrague sin protección goma;GESTIONADO;SE CAMBIO;;
 15-11-2024;SAN FERNANDO;Gastón Carreño Ramirez ;PJTT-25 ;Problema con la chapa de las puertas, cuesta mucho abrir y dejar cerrado;PENDIENTE;;;
 15-11-2024;TALCA;Fredy Jaque ;SR ZB96;Parabrisa quebrado;GESTIONADO;;;
 14-11-2024;TEMUCO;Patricio;SRHK70;Foco trasero derecho roto ;GESTIONADO;Foco Solicitado;;
