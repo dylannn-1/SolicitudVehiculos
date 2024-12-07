@@ -1,4 +1,9 @@
 Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la falla;Estado;Comentarios;@dropdown;@
+06-12-2024;IQUIQUE;Alexander zavala;Lgsx48;Vehiculo enciende la luz de bateria y varios indicadores, al momento de encender requiere de partidor.;;;;
+06-12-2024;CONCEPCION;Mauricio Peralta;RCZK 81;Parabrisas;;;;
+06-12-2024;CASTRO;Anyelo;Lhgr52;Frenos y parabrisas trizado;GESTIONADO;INGRESA A TALLER 11-12-2024;;
+03-12-2024;CASTRO;Rafael Medina;LHGH-13;Neumático reventado;GESTIONADO;SE CAMBIA NEUMATICO;;
+29-11-2024;PUERTO MONTT;Julio rosas;Lh gh 14;Frena con dificultad (frena pausado);GESTIONADO;INGRESA A TALLER DE AVIS 03-12-2024;;
 26-11-2024;CASTRO;Jorge lara;SGVH72;Dos ruedas traseras lado copiloto reventadas;GESTIONADO;REPARADO;;
 15-11-2024;PUERTO MONTT;Jose;LH.GR-61;Palanca de cambios sin protección;GESTIONADO;REPARADO;;
 15-11-2024;PUERTO MONTT;Jose;LH.GR-61;Pedal embrague sin protección goma;GESTIONADO;SE CAMBIO;;
@@ -197,8 +202,3 @@ Marca temporal;Centro de Venta;Escriba su nombre;Patente;Descripción de la falla
 06-09-2022;CASTRO;Jonathan aguilar;Dbzg-27;Fuga de aceite parte inferior del vhs;GESTIONADO;RESUELTO;;
 30-08-2022;PUERTO MONTT;Luis mancilla;Lhgr64;Parabrisas;GESTIONADO;CAMBIADO;;
 29-08-2022;VALDIVIA;Hernán Fernández;JLCG66;Problema de arranque. Falla Bendix. Camioneta da arranque intermitentemente.;GESTIONADO;RESUELTO;;
-29-11-2024;PUERTO MONTT;Julio rosas;Lh gh 14;Frena con dificultad (frena pausado);GESTIONADO;INGRESA A TALLER DE AVIS 03-12-2024;;
-03-12-2024;CASTRO;Rafael Medina;LHGH-13;Neumático reventado;GESTIONADO;SE CAMBIA NEUMATICO;;
-06-12-2024;IQUIQUE;Alexander zavala;Lgsx48;Vehiculo enciende la luz de bateria y varios indicadores, al momento de encender requiere de partidor.;;;;
-06-12-2024;CONCEPCION;Mauricio Peralta;RCZK 81;Parabrisas;;;;
-06-12-2024;CASTRO;Anyelo;Lhgr52;Frenos y parabrisas trizado;GESTIONADO;INGRESA A TALLER 11-12-2024;;
